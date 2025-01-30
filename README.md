@@ -25,7 +25,7 @@ Hello GitHub community! My name is Ray, and I am a code-loving, nature enthusias
 - **Lab Technician** – Sierra Nevada Aquatic Research Laboratory (1/21–6/22)
 
 ### Education
-- Masters in Environmental Science and Management (2024); Bren School of Environmental Science and Management at UCSB
+- Masters in Environmental Science and Management (2024); Bren School at UC Santa Barbara
 - B.S.in Ecology and Evolutionary Biology (2020); UC Santa Cruz
 - B.A. in Environmental Studies(2020); UC Santa Cruz
 
